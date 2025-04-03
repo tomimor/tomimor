@@ -1,9 +1,9 @@
-# 👋 Hi! I'm Tomi! 🇦🇷
+![check1](check1.svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PM-Product%20Manager-blue" alt="Product Manager">
-  <img src="https://img.shields.io/badge/🧉-Mate%20Lover-brightgreen" alt="Mate Lover">
-  <img src="https://img.shields.io/badge/ETH-Ethereum-8A6CFF?logo=ethereum" alt="Ethereum Enthusiast">
+  <img src="https://img.shields.io/badge/🧉%20Product%20Manager-0077b6" alt="Product Manager">
+  <img src="https://img.shields.io/badge/🇦🇷%20Argentino-0077b6" alt="Mate Lover">
+  <img src="https://img.shields.io/badge/Ethereum-0077b6?logo=ethereum" alt="Ethereum Enthusiast">
 </div>
 
 ### Web3 Product Manager, now coding my way into product engineering
@@ -26,9 +26,6 @@ Now I'm bridging my **product & business mindset** with **technical skills** to 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tomaspm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn%20🚀-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/tomimorenox" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  </div>
+</div>
