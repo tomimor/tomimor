@@ -13,7 +13,7 @@
 You will commonly find me advocating to **keep the user in the center of the process**:
 
 <div align="center">
-  <img src="UserViewCrop.png" alt="UserView2" width="600" style="max-width: 100%;">
+  <img src="UserViewCrop.png" alt="UserView2" width="450" style="max-width: 100%;">
 </div>
 
 <br>
