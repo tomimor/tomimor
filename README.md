@@ -20,10 +20,6 @@ You will commonly find me advocating to **keep the user in the center of the pro
 
 Above all, **I'm passionate about working with talented people to leverage technology to create real impact**.
 
-_If you want to learn more about me:_
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/tomaspm/" target="_blank">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn%20🚀-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
