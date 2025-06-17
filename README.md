@@ -1,16 +1,10 @@
 ![check1](check1.svg)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/🧉%20Product%20Manager-0077b6" alt="Product Manager">
-  <img src="https://img.shields.io/badge/🇦🇷%20Argentino-0077b6" alt="Mate Lover">
-  <img src="https://img.shields.io/badge/Ethereum-0077b6?logo=ethereum" alt="Ethereum Enthusiast">
-</div>
-
-### I love to **solve problems** & **build**.
+### I love to **solve problems** & **build!**
 
 My main skill is to mix **product & business mindset with technical knowledge** to ship digital products with a fast-paced iteration using web3 technologies.
 
-You will commonly find me advocating to **keep the user in the center of the process**:
+You will commonly find me advocating to **keep the user in the center of the process.**
 
 <div align="center">
   <img src="UserViewCrop.png" alt="UserView2" width="450" style="max-width: 100%;">
@@ -28,3 +22,11 @@ Above all, I'm passionate about working with talented people to **leverage techn
     Let's connect!
   </a>
 </div>
+
+<!-- Badges
+<div align="left">
+  <img src="https://img.shields.io/badge/🧉%20Product%20Manager-0077b6" alt="Product Manager">
+  <img src="https://img.shields.io/badge/🇦🇷%20Argentino-0077b6" alt="Mate Lover">
+  <img src="https://img.shields.io/badge/Ethereum-0077b6?logo=ethereum" alt="Ethereum Enthusiast">
+</div>
+-->
