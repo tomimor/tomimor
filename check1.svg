@@ -175,7 +175,7 @@ g.typingUnderline rect {
   </g>  
 
 <text x="5" y="12" font-family="Helvetica" font-size=".30em" 
-      fill="#AAA" font-weight="bold"> 
+      fill="#0077b6" font-weight="bold"> 
       Hi! I'm Tomi Moreno 🇦🇷
 </text>
 
