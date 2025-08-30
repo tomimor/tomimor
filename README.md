@@ -12,7 +12,7 @@ You will commonly find me advocating to **keep the user in the center of the pro
 
 <br>
 
-Above all, I'm passionate about working with talented people to **leverage technology to create real impact**.
+Above all, I'm passionate about **working with talented people doing cool stuff**.
 
 <br>
 
