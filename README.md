@@ -1,8 +1,6 @@
 ![check1](check1.svg)
 
-### I love to **solve problems** & **build!**
-
-My main skill is to mix **product & business mindset with technical knowledge** to ship digital products with a fast-paced iteration using web3 technologies.
+My main skill is to mix **product & business mindset with technical knowledge** to ship blockchain solutions.
 
 You will commonly find me advocating to **keep the user in the center of the process.**
 
