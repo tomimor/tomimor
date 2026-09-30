@@ -5,8 +5,8 @@
 <p align="center">
 Product &amp; Program Manager with 7+ years of experience.
 
-- My main skill is mixing <b>product &amp; business mindset with technical knowledge</b> to ship blockchain solutions. I bring direct institutional-client experience and a finance & business background. 
-- I have <b>practical technical expertise<b>, an <b>AI-native approach<b>, and a <b>hands-on management<b> style with a strong focus on long-term relationship building my team and clients.<br/>
+- My main skill is mixing <b>product &amp; business mindset with technical knowledge</b> to ship blockchain solutions. I bring direct institutional-client experience and a finance &amp; business background. 
+- I have <b>practical technical expertise</b>, an <b>AI-native approach</b>, and a <b>hands-on management</b> style, with a strong focus on building long-term relationships with my team and clients.
 - Currently a Product Manager at <a href="https://moonsonglabs.com">Moonsong Labs</a>, leading delivery and client success across blockchain and dev tooling engagements.
 </p>
 
