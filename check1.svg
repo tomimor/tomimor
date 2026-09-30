@@ -174,9 +174,4 @@ g.typingUnderline rect {
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
-<text x="1" y="12" font-family="Helvetica" font-size=".30em" 
-      fill="#0077b6" font-weight="bold"> 
-      Hi! I'm Tomi Moreno 🇦🇷
-</text>
-
 </svg>

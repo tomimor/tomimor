@@ -1,29 +1,26 @@
-![check1](check1.svg)
+![](check1.svg)
 
-My main skill is to mix **product & business mindset with technical knowledge** to ship blockchain solutions.
+<h1 align="center">Hi, I'm Tomi! 👋</h1>
 
-You will commonly find me advocating to **keep the user in the center of the process.**
+<p align="center">
+Product &amp; Program Manager with 7+ years shipping institutional-grade products across blockchain and fintech.<br/>
+Currently Product Manager at <a href="https://moonsonglabs.com">Moonsong Labs</a>, leading delivery and client success across blockchain and dev tooling engagements.
+</p>
+
+<p align="center">
+Track record of building and leading cross-functional Product, Engineering, and Design teams.<br/>
+My main skill is mixing <b>product &amp; business mindset with technical knowledge</b> to ship blockchain solutions.
+</p>
+
+<p align="center">
+You will often find me advocating to <b>keep the user (or the client) at the center of the process</b>.
+</p>
 
 <div align="center">
-  <img src="UserViewCrop.png" alt="UserView2" width="450" style="max-width: 100%;">
+  <img src="UserViewCrop.png" alt="Two views of the same crib mobile: the parents' and the baby's" width="420" style="max-width: 100%;">
 </div>
 
-<br>
-
-Above all, I'm passionate about **working with talented people doing cool stuff**.
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tomaspm/" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20connect%20🚀-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-<!-- Badges
-<div align="left">
-  <img src="https://img.shields.io/badge/🧉%20Product%20Manager-0077b6" alt="Product Manager">
-  <img src="https://img.shields.io/badge/🇦🇷%20Argentino-0077b6" alt="Mate Lover">
-  <img src="https://img.shields.io/badge/Ethereum-0077b6?logo=ethereum" alt="Ethereum Enthusiast">
-</div>
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tomaspm/"><img src="https://img.shields.io/badge/LinkedIn-tomaspm-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tomimoreno.com.ar"><img src="https://img.shields.io/badge/Web-tomimoreno.com.ar-111111?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
