@@ -106,7 +106,7 @@ rect.headerRect:hover {
   }
 }
 @keyframes wave {
-  to {transform: translateX(-100%);}
+  to {transform: translateX(-120px);}
 }
 @keyframes blink {
   0% {
