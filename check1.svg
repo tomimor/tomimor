@@ -2,10 +2,13 @@
 
 <style>
 
-/* The wave path fills downward from its crest; flipping the canvas hangs the
-   mass from the top edge instead. Remove this and the banner renders upside down. */
+/* Both declarations below are load-bearing, verified by pixel diff:
+   the rotation hangs the wave's mass from the top edge (without it the banner
+   renders upside down), and fixed + top:-5px lifts the artwork 5px. */
 svg {
   transform: rotate(180deg);
+  position: fixed;
+  top: -5px;
 }
 
 .wave {
