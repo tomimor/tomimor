@@ -10,7 +10,7 @@ Product &amp; Program Manager with 7+ years of experience.
 - I have practical technical expertise, an <b>AI-native approach</b>, and a hands-on management style, with a strong focus on building long-term relationships with my team and clients.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tomaspm/"><img src="https://img.shields.io/badge/LinkedIn-tomaspm-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tomimoreno.com.ar"><img src="https://img.shields.io/badge/Web-tomimoreno.com.ar-111111?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomi-moreno/"><img src="buttons/linkedin.svg" alt="Let’s connect on LinkedIn" height="40"></a>&nbsp;
+  <a href="https://tomimoreno.com.ar"><picture><source media="(prefers-color-scheme: dark)" srcset="buttons/website-dark.svg"><img src="buttons/website-light.svg" alt="Visit my website" height="40"></picture></a>
 </p>
