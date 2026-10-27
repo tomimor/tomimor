@@ -12,5 +12,3 @@
   <a href="https://www.linkedin.com/in/tomi-moreno/"><img src="buttons/linkedin.svg" alt="Let’s connect on LinkedIn" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://tomimoreno.com.ar"><picture><source media="(prefers-color-scheme: dark)" srcset="buttons/website-dark.svg"><img src="buttons/website-light.svg" alt="Visit my website" height="32"></picture></a>
 </p>
-
-<br>
