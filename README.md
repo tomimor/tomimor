@@ -1,5 +1,3 @@
-<br>
-
 <h1 align="left">Hi, I'm Tomi! 🦾</h1>
 
 <h3 align="left">Product &amp; Program Manager with 7+ years of experience.</h3>
